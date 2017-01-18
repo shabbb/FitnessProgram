@@ -1,0 +1,48 @@
+Activity:				METS Value:
+
+Aerobics				6.83
+Baseball				5.00
+Basketball				8.00
+Biking					8.00
+Billiards				2.50
+Boating					4.64
+Bowling					3.00
+Climbing/Spelunking			9.50
+Dancing					4.50
+Eating/Drinking				1.50
+Exterior Maintenance			4.49
+Fencing					6.00
+Fishing					4.50
+Food/Drink Preparation			2.32
+Football				8.00
+Golfing					3.75
+Gymnastics				4.00
+Hiking					6.00
+Hockey					8.00
+Housework				2.51
+Hunting					4.50
+Ice Skating				7.00
+Interior Maintenance			3.85
+Martial Arts				10.00
+Nonsports Entertainment			1.63
+Pet Care				2.72
+Racquet Sports				8.50
+Relaxing				1.54
+Research/Homework			1.75
+Rollerblading				6.00
+Rugby					10.00
+Running					7.50
+Shopping				2.16
+Skiing					7.00
+Sleeping				0.92
+Snowboarding				7.00
+Soccer					7.00
+Softball				5.00
+Taking classes				2.23
+Vehicle Maintenance			2.93
+Volleyball				5.50
+Walking					3.80
+Water Sports				5.22
+Weightlifting				3.00
+Wrestling				6.00
+Yoga					3.00
